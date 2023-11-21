@@ -207,6 +207,7 @@ footer a {
 }
 
 .prof {
-    max-width: 100%;
     height: auto;
+    width: auto;
+    transform: scale(auto);
 }
