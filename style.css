@@ -207,11 +207,11 @@ footer a {
 }
 
 .prof {
-    height: 100%;
-}
-
-@media (min-height: 500px) {
+    width: 50%;
+  }
+  
+  @media (min-width: 600px) {
     .prof {
-      height: 50%;
+      width: 100%;
     }
   }
