@@ -207,11 +207,5 @@ footer a {
 }
 
 .prof {
-    height: 50%;
-  }
-  
-  @media (min-height: 600px) {
-    .prof {
-      height: 100%;
-    }
-  }
+    transform: scale(1.0);
+}
