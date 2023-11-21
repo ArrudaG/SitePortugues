@@ -205,3 +205,13 @@ footer a {
     transform: translate(-50%, -50%); /* Isso centraliza o pop-up na tela */
     z-index: 10000; /* Isso garante que o pop-up apareça acima da máscara */
 }
+
+.prof {
+    height: 100%;
+}
+
+@media (min-height: 500px) {
+    .prof {
+      height: 50%;
+    }
+  }
